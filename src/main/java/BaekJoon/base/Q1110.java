@@ -30,7 +30,6 @@ public class Q1110 {//더하기 사이클
             String[] summ1;
 
             if (sum<10){
-
                 summ = Integer.toString(a) + Integer.toString(sum);
                 summ1 = summ.split("");
             }else {
